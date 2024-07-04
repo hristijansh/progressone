@@ -1,6 +1,5 @@
 # progressone
-## Day 1
-### Headings - Images
+## Day 1  ### Headings - Images
 #### one
 #### two
 - **This text is bold**  
