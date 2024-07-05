@@ -16,11 +16,34 @@
 
    - >Relative links and images
 
-
- 
-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an apple.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
-- ![Popaye](img/61RZYaFHE0L.jpg)
-apple.jpg
 - ![Apple](img/apple.jpg)
+
+
+
+
+## Day 2
+
+
+* oneeeeee
++ twooooooo
+- threeeeee
+    ~~~
+  uhgfuhhg
+  rhbgfbnioen
+  rtjngiot
+    ~~~
+
+- [ ] not complete
+- [x] complete
+- [ ] not complete
+
+
+> [!IMPORTANT]
+> ALERTS
+   
+
+first item
+- second item
+  - third item
+
+This site was built using [GitHub Pages](https://pages.github.com/).
