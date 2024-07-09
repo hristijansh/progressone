@@ -14,3 +14,16 @@
 - User Input
 - Learned about flowchar
 - Talked about advent of code
+
+- ## Day 3 |08.07.2024
+
+- Data types
+- Operators
+- Strings
+- Math
+- Booleans
+- Started Conditions
+
+
+
+
