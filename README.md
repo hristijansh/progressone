@@ -24,6 +24,17 @@
 - Booleans
 - Started Conditions
 
+- ## Day 4 |09.07.2024
+- Finished Conditions
+- Switch
+- Loops
+- Break and Continue
+- Started Arrays
+
+
+
+
+
 
 
 
