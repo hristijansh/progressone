@@ -1,9 +1,9 @@
 # progressone
-## Day 1 |04.07.2024
+# Day 1 | 04.07.2024
 
 + Basic writing and formatting syntax GitHub Heading-Images
 
-## Day 2 |05.07.2024
+# Day 2 | 05.07.2024
 
 - Basic writing and formatting syntax GitHub Lists-Disabling Markdown Rendering
 - started w3schools
@@ -15,7 +15,7 @@
 - Learned about flowchar
 - Talked about advent of code
 
-- ## Day 3 |08.07.2024
+- # Day 3 | 08.07.2024
 
 - Data types
 - Operators
@@ -24,13 +24,20 @@
 - Booleans
 - Started Conditions
 
-- ## Day 4 |09.07.2024
+- # Day 4 | 09.07.2024
 - Finished Conditions
 - Switch
 - Loops
 - Break and Continue
 - Started Arrays
 
+- # Day 5 | 10.07.2024
+- Comleted Arrays
+- Structures
+- Enums
+- References
+- Pointers
+- Started Functions
 
 
 
