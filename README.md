@@ -37,7 +37,18 @@
 - Enums
 - References
 - Pointers
-- Started Functions
+- Started Functions (Functions and part of Function Parameters)
+
+- # Day 6 | 11.07.2024
+- Finished Function Parameters
+- Function Overloading
+- Variable Scope
+- Recursion
+- Revised material from Tutorial and Functions
+
+
+
+
 
 
 
