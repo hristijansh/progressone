@@ -46,6 +46,10 @@
 - Recursion
 - Revised material from Tutorial and Functions
 
+- # Day 7| 12.07.2024
+- Started classes
+- Read about:Classes and Objects, Class Methods and Constructors.
+
 
 
 
